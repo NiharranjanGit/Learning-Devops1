@@ -2,4 +2,4 @@ Hi,
 
 The first command is got init
 
-change by dev1 and commited
+change by dev1 and commited..
