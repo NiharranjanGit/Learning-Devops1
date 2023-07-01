@@ -3,3 +3,5 @@ Hi,
 The first command is got init
 
 git config
+
+this is done by dev 2
