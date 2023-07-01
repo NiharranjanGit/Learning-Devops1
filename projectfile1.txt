@@ -1,3 +1,5 @@
 Hi,
 
 The first command is got init
+
+git config
