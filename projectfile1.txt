@@ -2,6 +2,10 @@ Hi,
 
 The first command is got init
 
+
 git config
 
 this is done by dev 2
+
+change by dev1 and commited..
+
